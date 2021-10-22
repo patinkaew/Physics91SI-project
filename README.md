@@ -9,4 +9,7 @@ This project is a part of Physics91SI: Practical Computing for Scientist (Spring
 
 ## Libraries
 - numpy
+- pandas
 - matplotlib
+- sklearn
+- spellchecker
